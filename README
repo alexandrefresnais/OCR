@@ -1,0 +1,25 @@
+This is a Optical Character Recognition Software made for a second year project in EPITA.
+
+The group was made of :
+    - Kevin Cousin,
+    - Alexandre Fresnais(Project Manager)
+    - Quentin Lamirault
+    - Romain Marchais
+
+Note that this is not the perfect solution for such a software but it is a real convenient one
+for the time we had.
+
+If you are using our project or if you got inspired by it, please let us know by sending an email to alexandre.fresnais@epita.fr
+and credit us.
+
+Specifications :
+
+Here some things you might want to know if you are using/looking at our project :
+
+To make our project work correctly, please use simple documents.
+Our OCR can normally detect images inside a document and delete them to recognize the text.
+Note that text written in Serif Font might lead to uncoherent results because we did not train our neural network for it.
+Noisy documents might not work too.
+A problem with accent is known, so you might have some problems with GTK if the text or the corrected text contains accent.
+
+Made by Recognition Touch

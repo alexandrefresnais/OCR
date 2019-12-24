@@ -1,0 +1,13 @@
+=====================================================
+How to read Export values of a Neural Network
+=====================================================
+
+X1_to_Y1 X1_to_Y2 ... X1_to_Yn bias_Y1
+X2_to_Y1 X2_to_Y2 ... X2_to_Yn bias_Y2
+....
+Xn_to_Y1 Xn_to_Y2 ... Xn_to_Yn bias_Yn
+Y1_to_Z1 Y1_to_Z2 ... Y1_to_Zn bias_Z1
+Y2_to_Z1 Y2_to_Z2 ... X2_to_Zn bias_Z2
+....
+Yn_to_Z1 Yn_to_Z2 ... Xn_to_Zn bias_Zn
+
